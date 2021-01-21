@@ -8,3 +8,4 @@ sedangkan nama bebas.next
 Connected_ui tampilan yang akan di panggil clien 1 dan 2 , sebagi tempat setelah
 login dan tempat untuk berkomunikasi atau live chat (tempat catting)
 
+![chatting](https://raw.githubusercontent.com/zakafahmi/aplikasi-chatting-python-pyqt5-socket-/main/chatting.png)
