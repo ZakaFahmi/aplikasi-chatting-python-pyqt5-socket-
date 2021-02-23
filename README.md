@@ -1,4 +1,5 @@
 # aplikasi-chatting-python-pyqt5-socket-
+
 Dalam program ini kita haru me run atau menyalakan bagian server dulu
 sebagai jalan untuk berkomunikasi dari satu program ke program lainya .
 Kemudian run clien 1 dan 2 sebagi tempat untuk berkomunikasi .
